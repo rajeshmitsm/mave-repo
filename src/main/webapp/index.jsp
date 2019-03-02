@@ -1,7 +1,7 @@
 <%@ taglib uri="http://www.makumba.org/presentation" prefix="mak" %>
 <html>
 <head>
-<title>Hello world!</title>
+<title>Hi all, Welcome to Hello world!</title>
 </head>
 <body>
 

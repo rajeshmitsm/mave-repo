@@ -8,6 +8,7 @@
 <h1>CREATE A NEW PERSON PROFILE</h1>
 <mak:newForm type="general.Person" action="index.jsp">
 Name: <mak:input field="name" /><br/>
+Location: <mak:input field="location" />
 Surname: <mak:input field="surname" />
 <mak:submit/>
 </mak:newForm>
